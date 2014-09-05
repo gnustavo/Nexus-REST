@@ -1,0 +1,6 @@
+/Nexus-REST-*
+/.build
+*.bak
+*.tar.gz
+*~
+/.tidyall.d/
